@@ -13,13 +13,13 @@ public class MadLibs {
 		System.out.println("give me a noun");
 		noun = scan.nextLine();
 		System.out.print(noun);
-		System.out.println("give me a adj");
-		
+		adj = scan.nextLine();
 		System.out.println("give me a adj2");
-		
+		adj2 = scan.nextLine();
 		System.out.println("give me a color");
-		
+		color = scan.nextLine();
 		System.out.println("give me a animal");
+		animal = scan.nextLine();
 		
 	}
 

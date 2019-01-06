@@ -20,7 +20,9 @@ public class MadLibs {
 		color = scan.nextLine();
 		System.out.println("give me a animal");
 		animal = scan.nextLine();
-		
+		System.out.print("The " + animal + adj + " across the " + noun + ". The " + color + animal + " also " + noun 
+				
+				+adj2);
 	}
 
 }
